@@ -3,7 +3,7 @@ import React from 'react';
 export default function About() {
   return (
     <div>
-      <h1>About Me</h1>
+      <h1 className='text-2xl font-semibold'>Hi there!</h1>
       <p>
         As you may already know, my name is Tina Croxton and I am a fullstack web developer. But here’s what you may not know:
         
