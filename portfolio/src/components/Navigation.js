@@ -9,7 +9,7 @@ function Navigation({ currentPage, handlePageChange }) {
           href="#about"
           onClick={() => handlePageChange('About')}
 
-          className={currentPage === 'About' ? 'btn btn-ghost normal-case text-xl nav-link active' : 'btn btn-ghost normal-case text-xl nav-link'} 
+          className={currentPage === 'About' ? 'btn btn-primary normal-case text-xl nav-link active' : 'btn btn-ghost normal-case text-xl nav-link'} 
         >
           About Me
         </a>
@@ -18,7 +18,7 @@ function Navigation({ currentPage, handlePageChange }) {
           href="#portfolio"
           onClick={() => handlePageChange('Portfolio')}
 
-          className={currentPage === 'Portfolio' ? 'btn btn-ghost normal-case text-xl nav-link active' : 'btn btn-ghost normal-case text-xl nav-link'} 
+          className={currentPage === 'Portfolio' ? 'btn btn-primary normal-case text-xl nav-link active' : 'btn btn-ghost normal-case text-xl nav-link'} 
         >
           Portfolio
         </a>
@@ -27,7 +27,7 @@ function Navigation({ currentPage, handlePageChange }) {
           href="#contact"
           onClick={() => handlePageChange('Contact')}
 
-          className={currentPage === 'Contact' ? 'btn btn-ghost normal-case text-xl nav-link active' : 'btn btn-ghost normal-case text-xl nav-link'} 
+          className={currentPage === 'Contact' ? 'btn btn-primary normal-case text-xl nav-link active' : 'btn btn-ghost normal-case text-xl nav-link'} 
         >
           Contact
         </a>
@@ -36,7 +36,7 @@ function Navigation({ currentPage, handlePageChange }) {
           href="#resume"
           onClick={() => handlePageChange('Resume')}
 
-          className={currentPage === 'Resume' ? 'btn btn-ghost normal-case text-xl nav-link active' : 'btn btn-ghost normal-case text-xl nav-link'} 
+          className={currentPage === 'Resume' ? 'btn btn-primary normal-case text-xl nav-link active' : 'btn btn-ghost normal-case text-xl nav-link'} 
         >
           Resume
         </a>
