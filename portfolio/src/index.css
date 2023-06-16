@@ -6,6 +6,11 @@
   margin: 15px;
 }
 
+ul {
+  margin-left: 25px;
+}
+
+
 /* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

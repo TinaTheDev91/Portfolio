@@ -15,6 +15,7 @@ export default function About() {
         As a web developer, I want to create websites that are not only functional and useful, but also unique, engaging and fun to interact with as a user. 
         Now that that’s over, check out my work on the next tab!
       </p>
+      
     </div>
   );
 }
