@@ -10,6 +10,10 @@ ul {
   margin-left: 25px;
 }
 
+.projectCard {
+  background-image: url(./components/assets/container-bg.png);
+}
+
 
 /* body {
   margin: 0;
