@@ -24,9 +24,9 @@ The portfolio includes the following features:
 
 ## Installation
 
-To view this project, it required that a browser be installed on your preferred device. The browser can be any one of your choosing. To view, enter the following URL to the address bar of said browser:
+To view this project, it requires a browser to be installed on your preferred device. The browser can be any one of your choosing. To view, enter the following URL to the address bar of said browser:
 
-PUT LINK HERE
+https://tinathedev91.github.io/Portfolio/ 
 
 ## Usage
 
