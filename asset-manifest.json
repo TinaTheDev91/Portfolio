@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.90d7826a.css",
+    "main.js": "/Portfolio/static/js/main.7de58f3d.js",
+    "static/media/header.png": "/Portfolio/static/media/header.9233870fa51a077c68c3.png",
+    "static/media/weatherdashboard.jpg": "/Portfolio/static/media/weatherdashboard.22bcb93b6dda055721b4.jpg",
+    "static/media/workdayscheduler.jpg": "/Portfolio/static/media/workdayscheduler.948e0b1a749cde8c294f.jpg",
+    "static/media/laborhub.jpg": "/Portfolio/static/media/laborhub.cf2a8143f1a5be2b5b61.jpg",
+    "static/media/notetakerapp.jpg": "/Portfolio/static/media/notetakerapp.509145f381c02df5fd8c.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.90d7826a.css.map": "/Portfolio/static/css/main.90d7826a.css.map",
+    "main.7de58f3d.js.map": "/Portfolio/static/js/main.7de58f3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90d7826a.css",
+    "static/js/main.7de58f3d.js"
+  ]
+}
