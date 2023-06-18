@@ -3,7 +3,7 @@ import React from 'react';
 function Navigation({ currentPage, handlePageChange }) {
   return (
 
-    <nav>
+    <nav className='flex'>
       <div className="navbar bg-base-100">
         <a
           href="#about"

@@ -2,8 +2,6 @@ import React from 'react';
 import Projects from '../Project';
 import { projectData } from '../ProjectData';
 
-// const projectList = projectData.map(project => Projects)
-
 export default function Portfolio({ info, name, link, image }) {
 
   return (
