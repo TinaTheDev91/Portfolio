@@ -4,7 +4,7 @@ React: React Portfolio
 
 ## Description
 
-This is a project created using the React framework. This project was created to both showcase my aibilities with the React framework, as well as create a more polished portfolio.
+This is a project created using the React framework. This project was created to both showcase my abilities with the React framework, as well as create a more polished portfolio.
 
 ## Features
 
